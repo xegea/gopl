@@ -2,4 +2,4 @@
 
 On windows use:
 
-> telnet lcoalhost 3333
+> telnet localhost 3333
